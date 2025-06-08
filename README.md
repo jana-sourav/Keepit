@@ -53,7 +53,7 @@ my-app/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/keepit.git
+git clone https://github.com/jana-sourav/Keepit.git
 cd keepit
 ```
 
