@@ -23,7 +23,8 @@ my-app/
 │   │   └── Note.js
 │   ├── server.js
 │   ├── .env
-│   └── package.json
+│   ├── package.json
+│   └── package-lock.json
 ├── frontend/
 │   ├── public/
 │   │   └── index.html
@@ -38,6 +39,7 @@ my-app/
 │   │   ├── index.js
 │   │   └── style.css
 │   ├── package.json
+│   ├── package-lock.json
 │   └── .env
 ├── .gitignore
 ├── README.md
@@ -113,7 +115,6 @@ Remember to update your `MONGO_URI` and any other environment-specific settings 
 
 - **Frontend**: React, Material-UI Icons, Axios  
 - **Backend**: Express, MongoDB, Mongoose, dotenv  
-- **Deployment**: (Optional) Vercel/Netlify (frontend) & Render/Heroku (backend)
 
 ---
 
