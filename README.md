@@ -9,9 +9,7 @@ Keepit is a full-stack note-taking app inspired by Google Keep, allowing users t
 ✅ Create notes with a title and content  
 ✅ Expandable text area for a smooth UX  
 ✅ Delete notes when needed  
-✅ Responsive and clean design  
-✅ Search bar to filter notes  
-✅ Dark mode toggle (if implemented)  
+✅ Responsive and clean design   
 ✅ Data is stored in MongoDB and persists on refresh  
 
 ---
